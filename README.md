@@ -1,16 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=28&pause=750&color=F78888&repeat=false&width=436&lines=Hi%2C+I'm+Brendan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-[//]: # [![](https://img.shields.io/badge/%F0%9F%93%84%20Resume-gray?style=for-the-badge)]()]
-<br /><br />
+<!-- [![](https://img.shields.io/badge/%F0%9F%93%84%20Resume-gray?style=for-the-badge)]()] -->
+
 
 Recently Finished Projects
 ==========================
 [![](https://img.shields.io/badge/Article%20Site-black?style=for-the-badge)](https://angular-manual-template.vercel.app/)
 [![](https://img.shields.io/badge/Valentines-pink?style=for-the-badge)](https://valentine-site-pink.vercel.app/)
 
+
+
 🌱 Currently Working On
 =======================
 ![](https://img.shields.io/badge/Personal%20Site-lightblue?style=for-the-badge)
+
+
 
 ⚙️ Top Technologies
 ===================
@@ -23,10 +27,12 @@ Recently Finished Projects
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#)
 
+
+
 🖥️ Tech Proficiencies
 =====================
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=fff)](#)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=style=for-the-badge&flask&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)](#)
