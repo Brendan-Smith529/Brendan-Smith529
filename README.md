@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=28&pause=750&color=F78888&repeat=true&width=436&lines=Hi%2C+I'm+Brendan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=28&pause=500&color=F78888&repeat=true&width=436&lines=Hi%2C+I'm+Brendan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <!-- [![](https://img.shields.io/badge/%F0%9F%93%84%20Resume-gray?style=for-the-badge)]()] -->
 
